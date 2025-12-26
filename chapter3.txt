@@ -1,1 +1,2 @@
 python is easy to understand and easy to use.
+pip install package
